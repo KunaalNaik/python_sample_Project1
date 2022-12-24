@@ -1,0 +1,56 @@
+id,nct_id,intervention_type,name,description
+20477100,NCT01064687,Drug,LY2189265,
+20477101,NCT01064687,Drug,Exenatide,
+20477102,NCT01064687,Drug,Placebo,
+20477103,NCT01064687,Drug,Metformin,
+20477104,NCT01064687,Drug,Pioglitazone,
+20476841,NCT01075282,Drug,Insulin Glargine,
+20476842,NCT01075282,Drug,LY2189265,
+20476843,NCT01075282,Drug,Metformin,
+20476844,NCT01075282,Drug,Glimepiride,
+20475488,NCT01126580,Drug,Metformin,
+20475489,NCT01126580,Drug,LY2189265,
+20475490,NCT01126580,Drug,Placebo (oral),
+20475491,NCT01126580,Drug,Placebo (subcutaneous),
+20473734,NCT01191268,Drug,Insulin Glargine,
+20473735,NCT01191268,Drug,LY2189265,
+20473736,NCT01191268,Drug,Insulin Lispro,
+21230770,NCT01885208,Drug,semaglutide,"One dose of 1.0 mg semaglutide administered subcutaneously (s.c., under the skin) once-weekly"
+21230771,NCT01885208,Drug,exenatide,"One dose of 2.0 mg exenatide ER administered subcutaneously (s.c., under the skin) once-weekly"
+21229788,NCT01930188,Drug,semaglutide,"For subcutaneous injection (s.c., under the skin) once weekly. Will follow a fixed dose escalation regimen. The trial drug will be added on to the subject's stable pre-trial medication."
+21229789,NCT01930188,Drug,sitagliptin,Tablets for oral administration once daily. The trial drug will be added on to the subject's stable pre-trial medication.
+21229790,NCT01930188,Drug,placebo,Tablets for oral administration once daily. The trial drug will be added on to the subject's stable pre-trial medication.
+21229791,NCT01930188,Drug,placebo,"For subcutaneous injection (s.c., under the skin) once weekly. Will follow a fixed dose escalation regimen. The trial drug will be added on to the subject's stable pre-trial medication."
+21227206,NCT02054897,Drug,semaglutide,"Once weekly, administrated subcutaneously (s.c. under the skin)"
+21227207,NCT02054897,Drug,placebo,"Once weekly, administrated subcutaneously (s.c. under the skin)"
+21225756,NCT02128932,Drug,semaglutide,Injected subcutaneously (under the skin) once weekly. Following 4 doses (4 weeks) of 0.25 mg semaglutide weekly subjects will receive 0.5 mg semaglutide weekly for 26 weeks.
+21225757,NCT02128932,Drug,insulin glargine,Injected subcutaneously (under the skin) once daily. Subjects will start on 10 IU once daily and the dose will be adjusted according to fasting plasma glucose.
+21205401,NCT02607865,Drug,semaglutide,Oral administration once-daily
+21205402,NCT02607865,Drug,sitagliptin,Oral administration once-daily
+21205403,NCT02607865,Drug,placebo,Oral administration once-daily
+21201938,NCT02863328,Drug,semaglutide,Oral administration once-daily.
+21201939,NCT02863328,Drug,empagliflozin,Oral administration once-daily.
+21201934,NCT02863419,Drug,semaglutide,Oral semaglutide once-daily.
+21201935,NCT02863419,Drug,liraglutide,Subcutaneous (s.c.) injection once-daily.
+21201936,NCT02863419,Drug,placebo,Placebo once-daily.
+21201519,NCT02906930,Drug,semaglutide,Oral administration once daily.
+21201520,NCT02906930,Drug,placebo,Oral administration once daily.
+20638290,NCT03730662,Drug,Tirzepatide,Administered SC.
+20638291,NCT03730662,Drug,Insulin Glargine,Administered SC
+20713446,NCT03882970,Drug,Tirzepatide,Administered SC
+20713447,NCT03882970,Drug,Insulin Degludec,Administered SC
+21192861,NCT03954834,Drug,Tirzepatide,Administered SC
+21192862,NCT03954834,Drug,Placebo,Administered SC
+20638254,NCT03987919,Drug,Tirzepatide,Administered SC
+20638255,NCT03987919,Drug,Semaglutide,Administered SC
+21218251,NCT05259033,Drug,IcoSema,"IcoSema once weekly subcutaneously (s.c., under the skin) using a needle and a pen.
+
+For about 1 year and 1 month."
+21218252,NCT05259033,Drug,Semaglutide 1 mg,"Semaglutide once weekly subcutaneously (s.c., under the skin). Dose titrated to 1mg over 8 weeks (0.25 mg for 4 weeks, 0.5 mg for 4 weeks). For about 1 year and 1 month."
+21218248,NCT05260021,Drug,Tirzepatide Dose 1,Administered SC
+21218249,NCT05260021,Drug,Tirzepatide Dose 2,Administered SC
+21218250,NCT05260021,Drug,Placebo,Administered SC
+21217821,NCT05433584,Drug,Tirzepatide,Administered SC
+21217822,NCT05433584,Drug,Antihyperglycemic medication,As prescribed
+20797456,NCT05441267,Drug,Semaglutide Oral Tablet,Oral semaglutide 14mg daily (option to reduce to 7mg daily)
+20797457,NCT05441267,Drug,Placebo oral tablet,Placebo oral semaglutide
