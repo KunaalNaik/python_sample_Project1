@@ -62,17 +62,3 @@ with tab3:
     st.header("Interventions")
     AgGrid(tbl_interventions)
 
-
-# Create Input DataFrame
-# user_input = pd.DataFrame({
-#     'x1_Experience': [experience],
-#     'x2_Skills': [skill]
-# })
-
-# Import Model Pickle
-# reg = joblib.load('model/predict_salary.pkl')
-
-# Predict Salary
-
-
-# Displaying the Predicted Output
